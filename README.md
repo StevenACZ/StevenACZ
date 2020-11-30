@@ -51,7 +51,6 @@ Hello, my name is Steven Coaila, I am 18 years old and I am a front end develope
 <!-- waka time stats-->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 <!--END_SECTION:waka-->
 
 <br />

@@ -47,6 +47,18 @@ Hello, my name is Steven Coaila, I am 18 years old and I am a front end develope
 <!-- GitHub stats -->
 <b>⚡ My Dev Statistics</b>
 
+<br />
+<!-- waka time stats-->
+
+<!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+<!--END_SECTION:waka-->
+
+<br />
+
+<!-- GitHub stats -->
+<b>⚡ My GitHub Statistics</b>
+
 <p>
 <!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StevenACZ&show_icons=true&hide_border=true" />

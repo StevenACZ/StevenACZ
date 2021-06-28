@@ -40,8 +40,8 @@ Hello, my name is Steven Coaila, I am 18 years old and I am a front end develope
 <h3 align="left">Languages and Tools:</h3>
 
 - HTML, CSS, SASS
-- React, Vue
-- Ruby, Python, JavaScript
+- React, Angular
+- Ruby, JavaScript, TypeScript
 - Git & GitHub
 
 <!-- GitHub stats -->

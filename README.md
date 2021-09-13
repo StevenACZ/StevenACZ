@@ -12,15 +12,11 @@
 
 <!-- About me -->
 <p>
-Hello, my name is Steven Coaila, I am 18 years old and I am a front end developer. My hobbies are writing maintainable code and creating challenging projects, I like everything related to user interface, programming and creating products with a great user experience. 😊👌
+Hello, my name is Steven. I am a Front end developer. My hobbies are writing maintainable code and creating challenging projects, I like everything related to user interface, programming and creating products with a great user experience. 😊👌
 </p>
 
 <!-- Personal Stuffs -->
 <h3> Talking about personal stuffs:</h3>
-
-- 👨🏽‍💻 I’m currently working on something cool 😉
-
-- 🌱 I’m currently learning Full stack development at Codeable bootcamp
 
 - 📝 I like team work
 
@@ -40,8 +36,8 @@ Hello, my name is Steven Coaila, I am 18 years old and I am a front end develope
 <h3 align="left">Languages and Tools:</h3>
 
 - HTML, CSS, SASS
-- React, Angular
-- Ruby, JavaScript, TypeScript
+- React, Node.js, GraphQL
+- JavaScript, TypeScript
 - Git & GitHub
 
 <!-- GitHub stats -->

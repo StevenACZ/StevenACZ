@@ -1,52 +1,64 @@
+# Steven A. Coaila 👨‍💻
+
 ![Banner](assets/github-profile-cover.png)
 
-<!-- retro visitor counter -->
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/StevenACZ/count.svg" />
-</p>
 
-<!-- welcome message -->
-<h2>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-<h3>Glad to see you here!</h3>
+## 👋 Full-Stack Developer | React • TypeScript • Swift • Node.js
 
-<!-- About me -->
-<p>
-Hello, my name is Steven. I am a Front end developer. My hobbies are writing maintainable code and creating challenging projects, I like everything related to user interface, programming and creating products with a great user experience. 😊👌
-</p>
+Soy **Steven A. Coaila**, desarrollador especializado en crear experiencias digitales excepcionales. Construyo aplicaciones web modernas con React/TypeScript y apps móviles iOS con SwiftUI.
 
-<!-- Personal Stuffs -->
-<h3> Talking about personal stuffs:</h3>
+### 💻 Tecnologías
 
-- 📝 I like team work
-
-- 📫 How to reach me **[Twitter](https://twitter.com/Steven_coailaZ)**
-
-<!-- Connect with me -->
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://twitter.com/Steven_coailaZ" target="blank"><img align="center" src="assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/stevenacz/" target="blank"><img align="center" src="assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://www.instagram.com/steven_acz/" target="blank"><img align="center" src="assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<!-- Languages and tools -->
-<h3 align="left">Languages and Tools:</h3>
+### 🚀 Especialidades
 
-- HTML, CSS, SASS
-- React, Node.js, GraphQL
-- JavaScript, TypeScript
-- Git & GitHub
+### 📊 Estadísticas de GitHub
 
-<!-- GitHub stats -->
-<b>⚡ My GitHub Statistics</b>
-
-<p>
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=StevenACZ&show_icons=true&hide_border=true" />
-
-<!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenACZ&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StevenACZ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenACZ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
+
+### 🏆 Logros GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=StevenACZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+</p>
+
+### 🌟 Proyectos Destacados
+
+Siempre estoy trabajando en proyectos interesantes que combinan tecnología y creatividad. Echa un vistazo a mis repositorios para ver mis últimos desarrollos en React, Swift y Node.js.
+
+### 🤝 Conecta conmigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/stevenacz/" target="_blank">
+    <img align="center" src="assets/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+</p>
+
+### 💭 Filosofía de Desarrollo
+
+> "El código limpio no se escribe siguiendo un conjunto de reglas. Se escribe con la disciplina derivada de la experiencia." 
+
+Creo firmemente en escribir código mantenible, crear experiencias de usuario excepcionales y en el aprendizaje continuo. Cada proyecto es una oportunidad para innovar y mejorar.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=StevenACZ&label=Profile%20views&color=0e75b6&style=flat" alt="StevenACZ" />
+</p>
+
+⚡ **Disponible para nuevos proyectos y oportunidades** | 📧 **Contacto profesional via LinkedIn**

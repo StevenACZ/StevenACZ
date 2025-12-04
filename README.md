@@ -22,15 +22,6 @@ Soy **Steven A. Coaila**, desarrollador especializado en crear experiencias digi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
-### 🚀 Especialidades
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StevenACZ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenACZ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
 ### 🏆 Logros GitHub
 
 <p align="center">
@@ -62,3 +53,4 @@ Creo firmemente en escribir código mantenible, crear experiencias de usuario ex
 </p>
 
 ⚡ **Disponible para nuevos proyectos y oportunidades** | 📧 **Contacto profesional via LinkedIn**
+

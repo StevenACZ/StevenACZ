@@ -4,9 +4,6 @@
 
 ### Full-Stack Developer crafting exceptional digital experiences
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevenacz/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StevenACZ)
-
 </div>
 
 ---
@@ -63,23 +60,7 @@ I'm a passionate developer focused on creating **exceptional digital experiences
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StevenACZ&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StevenACZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-</div>
-
----
-
-## 💭 Dev Philosophy
+## Dev Philosophy
 
 <div align="center">
 

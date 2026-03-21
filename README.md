@@ -20,12 +20,13 @@ I build macOS utilities and web apps with a focus on clean architecture and grea
 
 ## Current Projects
 
-- 🔒 **LucasApp** — Finance + Calendar super app (Nuxt 4 + Bun). *(Private / closed source)*
-- ⚖️ **[PesoTracker](https://github.com/StevenACZ/peso-tracker)** — Visual weight tracking for macOS with photos, goals, and insights. **Website:** [peso.stevenacz.com](https://peso.stevenacz.com)
+- 🔒 **LucasApp** — Finance + Calendar super app (Nuxt 4 + Bun). *(Private / closed source)* **Website:** [lucas.stevenacz.com](https://lucas.stevenacz.com)
+- 💰 **[LucasApp CLI](https://github.com/StevenACZ/lucas-cli)** — Manage your LucasApp finances from the terminal. Designed for AI agents. **npm:** [`lucasapp-cli`](https://www.npmjs.com/package/lucasapp-cli)
+- 👁️ **[PeekOCR](https://github.com/StevenACZ/PeekOCR)** — OCR, screenshots, GIF clips, and annotations from your macOS menu bar.
 - 🖱️ **[BuenMouse](https://github.com/StevenACZ/BuenMouse)** — Mission Control + Spaces gestures for mouse/trackpad on macOS. **Website:** [mouse.stevenacz.com](https://mouse.stevenacz.com/en)
 - 🐸 **[SapoWhisper](https://github.com/StevenACZ/SapoWhisper)** — Menu bar speech-to-text with a hotkey (local Whisper option). **Website:** [sapo.stevenacz.com](https://sapo.stevenacz.com/)
 - 🎬 **[WW2 Film Map](https://github.com/StevenACZ/ww2-movie-map)** — Explore WWII cinema through an interactive map + timeline. **Website:** [ww2.stevenacz.com](https://ww2.stevenacz.com/)
-- 👁️ **[PeekOCR](https://github.com/StevenACZ/PeekOCR)** — OCR, screenshots, GIF clips, and annotations from your macOS menu bar.
+- ⚖️ **[PesoTracker](https://github.com/StevenACZ/peso-tracker)** — Visual weight tracking for macOS with photos, goals, and insights. **Website:** [peso.stevenacz.com](https://peso.stevenacz.com)
 
 ## GitHub Activity
 

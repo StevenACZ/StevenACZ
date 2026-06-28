@@ -34,4 +34,3 @@ I build Apple utilities, cross-platform mobile apps, and web apps with a focus o
 
 - Website: [stevenacz.com](https://stevenacz.com/)
 - LinkedIn: [linkedin.com/in/stevenacz](https://www.linkedin.com/in/stevenacz/)
-- X (Twitter): [@StevenACZ](https://x.com/StevenACZ)

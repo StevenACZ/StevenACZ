@@ -16,15 +16,19 @@ I build Apple utilities, cross-platform mobile apps, and web apps with a focus o
 
 > Manténlo simple. *(Keep it simple.)*
 
-## Current Projects
+## Featured Projects
 
-- 🔒 **LucasApp** — Finance + Calendar super app (Nuxt 4 + Bun). *(Private / closed source)* **Website:** [lucasapp.app](https://lucasapp.app) · **App:** [dashboard.lucasapp.app](https://dashboard.lucasapp.app)
-- 💰 **[LucasApp CLI](https://github.com/StevenACZ/lucas-cli)** — Manage your LucasApp finances from the terminal. Designed for AI agents. **npm:** [`lucasapp-cli`](https://www.npmjs.com/package/lucasapp-cli)
-- 🪟 **[Mirador](https://github.com/StevenACZ/mirador)** — Local-first Mac viewing and control for iPhone/iPad over LAN.
-- 👁️ **[PeekOCR](https://github.com/StevenACZ/PeekOCR)** — OCR, screenshots, GIF clips, and annotations from your macOS menu bar.
-- 🖱️ **[BuenMouse](https://github.com/StevenACZ/BuenMouse)** — Mission Control + Spaces gestures for mouse/trackpad on macOS. **Website:** [mouse.stevenacz.com](https://mouse.stevenacz.com/en)
-- 🐸 **[SapoWhisper](https://github.com/StevenACZ/SapoWhisper)** — Menu bar speech-to-text with a hotkey (local Whisper option). **Website:** [sapo.stevenacz.com](https://sapo.stevenacz.com/)
-- 🎬 **[WW2 Film Map](https://github.com/StevenACZ/ww2-movie-map)** — Explore WWII cinema through an interactive map + timeline. **Website:** [ww2.stevenacz.com](https://ww2.stevenacz.com/)
+- 🐸 **[SapoWhisper](https://github.com/StevenACZ/SapoWhisper)** — Speech-to-text from the macOS menu bar with global hotkeys and an optional local Whisper workflow. **Website:** [sapo.stevenacz.com](https://sapo.stevenacz.com/)
+- 🌀 **[MacGauge](https://github.com/StevenACZ/MacGauge)** — Menu bar system stats and guarded fan control for Apple Silicon Macs. **Website:** [macgauge.stevenacz.com](https://macgauge.stevenacz.com/)
+- 👁️ **[PeekOCR](https://github.com/StevenACZ/PeekOCR)** — OCR, screenshots, GIF clips, and annotations from the macOS menu bar.
+- 🔒 **LucasApp** — Personal finance app for iOS built with Kotlin Multiplatform and a private backend. **Website:** [lucasapp.app](https://lucasapp.app)
+- 💰 **[LucasApp CLI](https://github.com/StevenACZ/lucas-cli)** — Manage LucasApp finances from the terminal with device-scoped access. **npm:** [`lucasapp-cli`](https://www.npmjs.com/package/lucasapp-cli)
+
+## More Projects
+
+- 🖱️ **[BuenMouse](https://github.com/StevenACZ/BuenMouse)** — Mission Control and Spaces gestures for mouse and trackpad on macOS. **Website:** [mouse.stevenacz.com](https://mouse.stevenacz.com/)
+- 🪟 **[Mirador](https://github.com/StevenACZ/mirador)** — Local-first Mac viewing and control for iPhone and iPad over LAN.
+- 🎬 **[WW2 Film Map](https://github.com/StevenACZ/ww2-movie-map)** — Explore WWII cinema through an interactive map and timeline. **Website:** [ww2.stevenacz.com](https://ww2.stevenacz.com/)
 
 ## GitHub Activity
 

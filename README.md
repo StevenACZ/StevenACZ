@@ -19,16 +19,17 @@ I build Apple utilities, cross-platform mobile apps, and web apps with a focus o
 ## Featured Projects
 
 - 🐸 **[SapoWhisper](https://github.com/StevenACZ/SapoWhisper)** — Speech-to-text from the macOS menu bar with global hotkeys and an optional local Whisper workflow. **Website:** [sapo.stevenacz.com](https://sapo.stevenacz.com/)
-- 🌀 **[MacGauge](https://github.com/StevenACZ/MacGauge)** — Menu bar system stats and guarded fan control for Apple Silicon Macs. **Website:** [macgauge.stevenacz.com](https://macgauge.stevenacz.com/)
+- 🧩 **[Encaje](https://github.com/StevenACZ/Encaje)** — Native macOS window management with custom grid zones, configurable shortcuts, and movement across displays. **Download:** [Latest release](https://github.com/StevenACZ/Encaje/releases/latest)
 - 👁️ **[PeekOCR](https://github.com/StevenACZ/PeekOCR)** — OCR, screenshots, GIF clips, and annotations from the macOS menu bar.
-- 🔒 **LucasApp** — Personal finance app for iOS built with Kotlin Multiplatform and a private backend. **Website:** [lucasapp.app](https://lucasapp.app)
-- 💰 **[LucasApp CLI](https://github.com/StevenACZ/lucas-cli)** — Manage LucasApp finances from the terminal with device-scoped access. **npm:** [`lucasapp-cli`](https://www.npmjs.com/package/lucasapp-cli)
+- 🌀 **[MacGauge](https://github.com/StevenACZ/MacGauge)** — Menu bar system stats and guarded fan control for Apple Silicon Macs. **Website:** [macgauge.stevenacz.com](https://macgauge.stevenacz.com/)
 
 ## More Projects
 
-- 🖱️ **[BuenMouse](https://github.com/StevenACZ/BuenMouse)** — Mission Control and Spaces gestures for mouse and trackpad on macOS. **Website:** [mouse.stevenacz.com](https://mouse.stevenacz.com/)
-- 🪟 **[Mirador](https://github.com/StevenACZ/mirador)** — Local-first Mac viewing and control for iPhone and iPad over LAN.
 - 🎬 **[WW2 Film Map](https://github.com/StevenACZ/ww2-movie-map)** — Explore WWII cinema through an interactive map and timeline. **Website:** [ww2.stevenacz.com](https://ww2.stevenacz.com/)
+- 💰 **[LucasApp](https://lucasapp.app)** — Personal finance app for iOS built with Kotlin Multiplatform and a private backend.
+- 💻 **[LucasApp CLI](https://github.com/StevenACZ/lucas-cli)** — Manage LucasApp finances from the terminal with device-scoped access. **npm:** [`lucasapp-cli`](https://www.npmjs.com/package/lucasapp-cli)
+- 🕹️ **[Iron Nest Calculator](https://github.com/StevenACZ/iron-nest-calculator)** — Unofficial calculator and shot planner for *Iron Nest: Heavy Turret Simulator*. **Website:** [ironnest.stevenacz.com](https://ironnest.stevenacz.com/)
+- 🖱️ **[BuenMouse](https://github.com/StevenACZ/BuenMouse)** — Mission Control and Spaces gestures for mouse and trackpad on macOS. **Website:** [mouse.stevenacz.com](https://mouse.stevenacz.com/)
 
 ## GitHub Activity
 

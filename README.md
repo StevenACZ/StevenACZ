@@ -22,6 +22,7 @@ I build Apple utilities, cross-platform mobile apps, and web apps with a focus o
 - 🧩 **[Encaje](https://github.com/StevenACZ/Encaje)** — Native macOS window management with custom grid zones, configurable shortcuts, and movement across displays. **Download:** [Latest release](https://github.com/StevenACZ/Encaje/releases/latest)
 - 👁️ **[PeekOCR](https://github.com/StevenACZ/PeekOCR)** — OCR, screenshots, GIF clips, and annotations from the macOS menu bar.
 - 🌀 **[MacGauge](https://github.com/StevenACZ/MacGauge)** — Menu bar system stats and guarded fan control for Apple Silicon Macs. **Website:** [macgauge.stevenacz.com](https://macgauge.stevenacz.com/)
+- 📊 **[TokenGauge](https://github.com/StevenACZ/TokenGauge)**: Native macOS menu bar app for Codex and Claude quota, reset times, and seven days of token activity. **Download:** [Latest release](https://github.com/StevenACZ/TokenGauge/releases/latest)
 
 ## More Projects
 
